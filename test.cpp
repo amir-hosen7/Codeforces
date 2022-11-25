@@ -42,9 +42,7 @@ int main() {
 
     ll t = 1;
     for (ll T = 1; T <= t; T++) {
-        ll n;
-        cin>>n;
-        cout<<n*n<<"\n";
+        
     }
     return 0;
 }
